@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/food_recipes/static/css/main.4829a90a.css",
+    "main.js": "/food_recipes/static/js/main.eadf7cca.js",
+    "static/js/787.c2677bb9.chunk.js": "/food_recipes/static/js/787.c2677bb9.chunk.js",
+    "static/media/japanese.png": "/food_recipes/static/media/japanese.b9365975f5484cf6e833.png",
+    "static/media/british.png": "/food_recipes/static/media/british.0156f60459b27f1e3ba4.png",
+    "static/media/cooking.png": "/food_recipes/static/media/cooking.ebfcad7edc4b9a180c18.png",
+    "static/media/cooking2.png": "/food_recipes/static/media/cooking2.563daebed269ecb60065.png",
+    "static/media/invalidSearch.png": "/food_recipes/static/media/invalidSearch.94dfd73846f4fa06c283.png",
+    "static/media/lunch.png": "/food_recipes/static/media/lunch.4e12feadab667af4fa72.png",
+    "static/media/dinner.png": "/food_recipes/static/media/dinner.a814fb62cb3b5427ff6b.png",
+    "static/media/teaTime.png": "/food_recipes/static/media/teaTime.13b12b286316677d8663.png",
+    "static/media/french.png": "/food_recipes/static/media/french.e0d4c6f31ffcbab7d5c7.png",
+    "static/media/indian.png": "/food_recipes/static/media/indian.04b620995395e6c3250d.png",
+    "static/media/breakfast.png": "/food_recipes/static/media/breakfast.37ae0e95f1a5fb6f420e.png",
+    "static/media/italian.png": "/food_recipes/static/media/italian.3b44030f7e1c975d3ec4.png",
+    "static/media/snack.png": "/food_recipes/static/media/snack.90641527be3b392362f3.png",
+    "static/media/brunch.png": "/food_recipes/static/media/brunch.70939e73ed008cabfdbd.png",
+    "static/media/mexican.png": "/food_recipes/static/media/mexican.8e486648fc3ae5d390da.png",
+    "static/media/noFilter.png": "/food_recipes/static/media/noFilter.97d39bac1ce9cb4a4d37.png",
+    "static/media/chinese.png": "/food_recipes/static/media/chinese.2317634fb8fb9c97fe2a.png",
+    "static/media/american.png": "/food_recipes/static/media/american.4146d0abfb8af4d102b3.png",
+    "static/media/timer.svg": "/food_recipes/static/media/timer.5d4ff0f44e94e3f0d89a85db56703dcf.svg",
+    "static/media/ingredients.svg": "/food_recipes/static/media/ingredients.b527f015fd46315cdbbc7fbf7691d4f0.svg",
+    "index.html": "/food_recipes/index.html",
+    "main.4829a90a.css.map": "/food_recipes/static/css/main.4829a90a.css.map",
+    "main.eadf7cca.js.map": "/food_recipes/static/js/main.eadf7cca.js.map",
+    "787.c2677bb9.chunk.js.map": "/food_recipes/static/js/787.c2677bb9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4829a90a.css",
+    "static/js/main.eadf7cca.js"
+  ]
+}
