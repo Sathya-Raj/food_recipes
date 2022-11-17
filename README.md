@@ -1,7 +1,9 @@
 # [FOODIES](https://sathya-raj.github.io/food_recipes/)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+![image](https://user-images.githubusercontent.com/96201509/202519217-281c81a6-86b8-44ab-91e3-57a11f18d8ff.png)
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 ## Available Scripts
 
 In the project directory, you can run:
